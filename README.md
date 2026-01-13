@@ -1,1 +1,1 @@
-# git-conflict-challenge
+Version écrite sur Github
